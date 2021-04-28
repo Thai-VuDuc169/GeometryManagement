@@ -1,0 +1,11 @@
+debug/controller.o
+debug/loginform.o
+debug/main.o
+debug/mainwindow.o
+debug/model.o
+debug/painterdialog.o
+debug/shape.o
+debug/qrc_Resources.o
+debug/moc_loginform.o
+debug/moc_mainwindow.o
+debug/moc_painterdialog.o

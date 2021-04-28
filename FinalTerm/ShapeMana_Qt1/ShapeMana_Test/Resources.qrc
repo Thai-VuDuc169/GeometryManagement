@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Resources/08-512.png</file>
+        <file>Resources/1207396715B4066k.jpg</file>
+        <file>Resources/background.jpg</file>
+        <file>Resources/CCRQInvoice.png</file>
+        <file>Resources/charts.png</file>
+        <file>Resources/chob.png</file>
+        <file>Resources/computers02600tj0.jpg</file>
+        <file>Resources/form-icon-01.png</file>
+        <file>Resources/kisspng-condominium-apartment-building-property-computer-i-5b37b3208c3448.6385983015303769925743.jpg</file>
+        <file>Resources/logo.png</file>
+        <file>Resources/logo-gau-truc-07.jpg</file>
+        <file>Resources/patient_cards-2-512.png</file>
+        <file>Resources/pngtree-home-house-building-apartment-abstract-flat-color-icon-templa-png-image_1653301.jpg</file>
+        <file>Resources/zoom.png</file>
+    </qresource>
+</RCC>

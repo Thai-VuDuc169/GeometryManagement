@@ -1,0 +1,11 @@
+release/controller.o
+release/loginform.o
+release/main.o
+release/mainwindow.o
+release/model.o
+release/painterdialog.o
+release/shape.o
+release/qrc_Resources.o
+release/moc_loginform.o
+release/moc_mainwindow.o
+release/moc_painterdialog.o
